@@ -31,7 +31,7 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=tuanhne157&show_icons=true&theme=default" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tuanhne157&theme=default" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=tuanhne157&theme=default" width="48%">
 </p>
 
 ---
