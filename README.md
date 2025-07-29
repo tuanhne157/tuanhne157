@@ -29,10 +29,9 @@
 
 ## 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanhne157&show_icons=true&theme=default" width="48%">
-  <img src="https://streak-stats.demolab.com/?user=tuanhne157&theme=default" width="48%">
-</p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanhne157&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tuanhne157&theme=default)
 
 ---
 
