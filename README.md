@@ -31,8 +31,6 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanhne157&show_icons=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=tuanhne157&theme=default)
-
 ---
 
 ## 📫 Liên hệ mình tại:
